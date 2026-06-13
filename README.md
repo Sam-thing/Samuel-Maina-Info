@@ -60,16 +60,10 @@ Hey there, I'm Samuel Maina
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-maina/" target="blank">
+  <a href="https://www.linkedin.com/in/samuel-maina-nguru/" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://twitter.com/your-handle" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" alt="Twitter" width="40" height="40" />
-  </a>
-  <a href="https://instagram.com/samuel-maina" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40" height="40" />
-  </a>
-  <a href="mailto:samuel.maina@example.com" target="blank">
+  <a href="mailto:njerisamuel701@gmail.com" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3059/3059423.png" alt="Email" width="40" height="40" />
   </a>
 </p>
