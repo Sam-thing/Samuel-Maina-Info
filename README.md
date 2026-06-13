@@ -60,7 +60,7 @@ Hey there, I'm Samuel Maina
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-maina-nguru/" target="blank">
+  <a href="https://www.linkedin.com/in/samuel-maina-nguro/" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="mailto:njerisamuel701@gmail.com" target="blank">
