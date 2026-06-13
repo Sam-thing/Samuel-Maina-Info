@@ -27,7 +27,7 @@ Hey there, I'm Samuel Maina
 
 <div style="display: flex; align-items: center; gap: 10px; margin: 15px 0;">
   <img src="https://cdn-icons-png.flaticon.com/512/3143/3143623.png" width="25" height="25" alt="Contact" />
-  <span>Reach me at: <strong>samuel.maina@example.com</strong></span>
+  <span>Reach me at: <strong>njerisamuel701@gmail.com</strong></span>
 </div>
 
 <br>
